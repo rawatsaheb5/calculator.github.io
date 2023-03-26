@@ -1,0 +1,64 @@
+.btn{
+    height: 36em;
+    width:30em;
+    background-color: black;
+    margin-left: 33%;
+    
+}
+#sc1{
+    display: inline-block;
+
+
+}
+
+#sc2{
+    float: right;
+    display: inline-block;
+}
+#header{
+    text-align:center;
+    color: blueviolet;
+    font-weight: 200;
+}
+.screen{
+    height: 5em;
+    width: 30em;
+    margin-left: 33%;
+    background-color: rgb(82, 86, 82);
+    
+}
+
+#n1,#n3,#n2,#n4,#n5,#n6,#n7,#n8,#n9,#n0,#AC,#per,#divide,#sum,#sub,#mul,#decimal,#equal,#del,#double-zero{
+    height: 5em;
+    width: 5em;
+    color: rgb(52, 200, 29);
+    background-color: rgb(72, 77, 72);
+    font-size: larger;
+    font-weight:300;
+    border-radius: 50%;
+    border: 1px solid rgb(65, 62, 62);
+}
+.top, .bottom, .ex-bottom, .middle, .top-1{
+    margin:10px;
+    padding: auto;
+}
+.numbers{
+    margin: 2em;
+    padding: auto;
+    
+    
+}
+.top{
+    margin-top: 5px ;
+
+
+}
+.bottom{
+
+}
+.ex-bottom{
+
+}
+.middle{
+
+}
